@@ -2,8 +2,8 @@
 
 int PrintNumbers()
 {
-    printf("%d", 1);
-    printf("%d", 101);
-    printf("%d", 1001);
+    printf("%d\n", 1);
+    printf("%d\n", 101);
+    printf("%d\n", 1001);
     return(EXIT_SUCCESS);
 }

@@ -2,6 +2,6 @@
 
 int PrintHelloC()
 {
-    printf("Hello, C!");
+    printf("Hello, C!\n");
     return (EXIT_SUCCESS);
 }
