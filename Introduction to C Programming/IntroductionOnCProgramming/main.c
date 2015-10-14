@@ -10,6 +10,9 @@
  */
 int main() {
 
+    PrintHelloC();
+    PrintMyName();
+    PrintNumbers();
     return (EXIT_SUCCESS);
 }
 
