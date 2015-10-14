@@ -9,6 +9,7 @@ int main() {
     PrintHelloC();
     PrintMyName();
     PrintNumbers();
+    PrintFirstNameAndLastName("Ivaylo", "Ivanov");
     return (EXIT_SUCCESS);
 }
 
